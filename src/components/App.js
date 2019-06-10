@@ -29,6 +29,8 @@ class App extends Component {
       }
     ]
   };
+  //Hard coded players ^. Leave the array empty if prefered to start app without pre-assigned players. 
+
 
   prevPlayerId = 4;
 
